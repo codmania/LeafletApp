@@ -1,0 +1,21 @@
+
+
+h1, h3 {
+    text-align: center;
+}
+
+h1 {
+    color: red;
+    font-weight: 600px;
+}
+
+h3 {
+    color: blue;
+    font-style: italic;
+}
+
+#map {
+    height: 500px;
+    width: 500px;
+    margin: 20px auto;
+}
